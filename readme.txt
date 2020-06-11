@@ -1,0 +1,1 @@
+Codecademy project on JavaScript objects.
